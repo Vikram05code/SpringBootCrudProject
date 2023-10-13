@@ -14,4 +14,3 @@ import org.springframework.http.HttpStatus;
         private HttpStatus status;
 
     }
-}
