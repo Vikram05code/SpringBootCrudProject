@@ -17,7 +17,7 @@ public interface UserServices {
 
     //get single user of given userId
 
-    User getUser(String userId);
+    User getUserById(String userId);
 
     //Updtae User with given Id
     User updateUser(String userId);
